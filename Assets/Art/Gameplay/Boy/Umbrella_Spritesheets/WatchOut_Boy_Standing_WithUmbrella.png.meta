@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: ace710a692c173a488e8ae1fb2b5934e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WatchOut_Boy_Standing_WithUmbrella_0
+    21300002: WatchOut_Boy_Standing_WithUmbrella_1
+    21300004: WatchOut_Boy_Standing_WithUmbrella_2
+    21300006: WatchOut_Boy_Standing_WithUmbrella_3
+    21300008: WatchOut_Boy_Standing_WithUmbrella_4
+    21300010: WatchOut_Boy_Standing_WithUmbrella_5
+    21300012: WatchOut_Boy_Standing_WithUmbrella_6
+    21300014: WatchOut_Boy_Standing_WithUmbrella_7
+    21300016: WatchOut_Boy_Standing_WithUmbrella_8
+    21300018: WatchOut_Boy_Standing_WithUmbrella_9
+    21300020: WatchOut_Boy_Standing_WithUmbrella_10
+    21300022: WatchOut_Boy_Standing_WithUmbrella_11
+    21300024: WatchOut_Boy_Standing_WithUmbrella_12
+    21300026: WatchOut_Boy_Standing_WithUmbrella_13
+    21300028: WatchOut_Boy_Standing_WithUmbrella_14
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa415b7337e7342e49caddd9aa4db245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e0fea99a5b94afab70b11b882570ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a529edb3d1c403a860d8821d8f6d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_3
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d766cb3a0d53c4b94972487e63f5c813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_4
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b29c6a464b427796c40001e75b606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e270d8044989414f8b6f257ea2ec589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f5d5cd381c40d0bef178073b2f111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_7
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4356c580e6db7494ca12d4cf90d01ff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_8
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd38dfe820194cd5821b8d31d55bea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_9
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557a250fea8634070b9d6be8025a6423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369357c9048fb4e0ebb73afe03b0d836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d99eed880e4ee5a9353486ca656ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_12
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b7d0b56c24495e9b6e51df1856169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_13
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e0eebcdf9f41e081a9f02ba25a05f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithUmbrella_14
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c722af36474c618e8f87b1f063db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

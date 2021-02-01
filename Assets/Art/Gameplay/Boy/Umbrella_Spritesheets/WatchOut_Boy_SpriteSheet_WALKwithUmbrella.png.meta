@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: ed9183cf6872d5841bc81b86ee632ae1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_0
+    21300002: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_1
+    21300004: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_2
+    21300006: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_3
+    21300008: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_4
+    21300010: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_5
+    21300012: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_6
+    21300014: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_7
+    21300016: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_8
+    21300018: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_9
+    21300020: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_10
+    21300022: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_11
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcc60b559a114e65826a08e7b04c4c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58239b9174e4d2abb31e033e4263d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a129da07c44e228d4540da6a959bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_3
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351033331ce9f420da1698abe8de76f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392260498dc96412c9bdeadf08e21667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8195ebd90424d348a99fe0c0aeaf6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_6
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda544b25e4f492cb875524734bc8a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_7
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d946d94cf64724d8889ec92ff2c5952b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e4ce53befe45498338467a22e98f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82465fc5ccbbe4fcea07ea509ab57de0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_10
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3a6a92e5028487f9e2207a1aab1751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_SpriteSheet_WALKwithUmbrella_11
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80137f351cb2441f2a4ed8c118655a06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

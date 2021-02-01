@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 9a5c8aa18da20e147add77316c85cd7b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_0
+    21300002: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_1
+    21300004: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_2
+    21300006: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_3
+    21300008: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_4
+    21300010: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_5
+    21300012: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_6
+    21300014: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_7
+    21300016: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_8
+    21300018: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_9
+    21300020: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_10
+    21300022: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_11
+    21300024: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_12
+    21300026: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_13
+    21300028: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_14
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61529ef439c447f6b9becd0e936fefe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e66e67610b49648d6a813a16a7b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ec351b1ff342c8882ac323ff9e034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_3
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d643ec03c444f94b210ce5cc0e532b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_4
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4cdaafd25674749aebe0788925c2a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d003d9293d224dd9bb27d73920144a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf48c60f2867488396a617de71ecfab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_7
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b33dacf3d38e43af96d7851219ea917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_8
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba4864a33da4bae999683dc45efbc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_9
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9d97451675345d7848b834cc96e0cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992216750a56447e903e4aa02eb8dc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c225338bfc3f84d5f8c7d45f15106fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_12
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c99f75b0d3343988f96f26a836902a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_13
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682452290810425b9b3493d71fad46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Standing_WithBrokenUmbrella_stage01_14
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5b132d6e4af45c993b01be5a62b188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

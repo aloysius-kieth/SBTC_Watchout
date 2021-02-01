@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: 113045170ea71c549ad86c7236b2ed78
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WatchOut_Boy_Faint_0
+    21300002: WatchOut_Boy_Faint_1
+    21300004: WatchOut_Boy_Faint_2
+    21300006: WatchOut_Boy_Faint_3
+    21300008: WatchOut_Boy_Faint_4
+    21300010: WatchOut_Boy_Faint_5
+    21300012: WatchOut_Boy_Faint_6
+    21300014: WatchOut_Boy_Faint_7
+    21300016: WatchOut_Boy_Faint_8
+    21300018: WatchOut_Boy_Faint_9
+    21300020: WatchOut_Boy_Faint_10
+    21300022: WatchOut_Boy_Faint_11
+    21300024: WatchOut_Boy_Faint_12
+    21300026: WatchOut_Boy_Faint_13
+    21300028: WatchOut_Boy_Faint_14
+    21300030: WatchOut_Boy_Faint_15
+    21300032: WatchOut_Boy_Faint_16
+    21300034: WatchOut_Boy_Faint_17
+    21300036: WatchOut_Boy_Faint_18
+    21300038: WatchOut_Boy_Faint_19
+    21300040: WatchOut_Boy_Faint_20
+    21300042: WatchOut_Boy_Faint_21
+    21300044: WatchOut_Boy_Faint_22
+    21300046: WatchOut_Boy_Faint_23
+    21300048: WatchOut_Boy_Faint_24
+    21300050: WatchOut_Boy_Faint_25
+    21300052: WatchOut_Boy_Faint_26
+    21300054: WatchOut_Boy_Faint_27
+    21300056: WatchOut_Boy_Faint_28
+    21300058: WatchOut_Boy_Faint_29
+    21300060: WatchOut_Boy_Faint_30
+    21300062: WatchOut_Boy_Faint_31
+    21300064: WatchOut_Boy_Faint_32
+    21300066: WatchOut_Boy_Faint_33
+    21300068: WatchOut_Boy_Faint_34
+    21300070: WatchOut_Boy_Faint_35
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6383e5e43ce4b0f8d530a3af3cdd30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3000
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b634267ebf042aead994ec4f099e7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 3000
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0b5599de084cac8bba3d93254a2ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_3
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 3000
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1cb6ede864a4a189c7056dbd53ca8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_4
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3000
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cae9aa01e0d463c8806723e278542a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_5
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 3000
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b1101acd89430a9829c72572bd7ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f170d036b44278831da7c46efc575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2400
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baae30c401474e1a904d94ea52c0f75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_8
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2400
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9904f705cf9ba4501a9a1010e6e5ef20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_9
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 2400
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e7da737a8e40ad891a361b931416c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_10
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 2400
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae1617387f343f38c6ecd79b1573a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_11
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 2400
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4612251e5231240d2ab865db4b9af537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a756695e7f946ebac0e93136417757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1800
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5816792c645c48c9ac97b66b065037d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_14
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1800
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401a4d264fec045799c48ce137cf497b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_15
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1800
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c1e0a3597b4b05b8d234f5c10244b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_16
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1800
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0295188b467db4398a1edd6e25fb88a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_17
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 1800
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5abf06a714df4ef8a79975ad9ca3043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe69175adf44672b251afe89bdf924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_19
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af28df47c5334cccb76df6f0e468a95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_20
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b6b11221909450cb174dc43c66543e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_21
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed01c880ad2c4fe593c562b299559a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_22
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64dc2400f8074633818939d39879f6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_23
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 1200
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ad582a9f26e42e9be6bc9086189bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca694f284995644b8bfeb21f9b9b626d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d841536d4abd4432ad1a7d88cf3dadf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_26
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c8839f2615e4200b6a2a46482033d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_27
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a155756c45a4c45558254e2e1890dde3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_28
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9ef5ae2d6c045f8bd5ae2ede6cee22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_29
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 600
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7892154cf4c5f422b94931a7642ca21c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a81f2ac722d49baab68351ea8c0c1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_31
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567b6eaad98e4528869a8cbf5181479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_32
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afa9e47f792944248d10f2233654523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_33
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9d39f523e042ce87f49b84e3b1411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_34
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746cd16306e0a429d9d9552a27df8ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchOut_Boy_Faint_35
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 0
+        width: 721
+        height: 600
+      alignment: 9
+      pivot: {x: 0.38, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3e791aaae245f39624b1998a16a7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

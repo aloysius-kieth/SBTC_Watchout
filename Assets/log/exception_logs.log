@@ -1,0 +1,8 @@
+<MissingReferenceException: The object of type 'TrinaxAdminPanel' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.> --- Begin Error Message: TrinaxGlobal+<Init>d__23.MoveNext () (at Assets/_TRINAX/Scripts/TrinaxGlobal.cs:98)
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__6_0 (System.Object state) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () (at C:/buildslave/unity/build/Runtime/Export/UnitySynchronizationContext.cs:155)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks() (at C:/buildslave/unity/build/Runtime/Export/UnitySynchronizationContext.cs:105)
+

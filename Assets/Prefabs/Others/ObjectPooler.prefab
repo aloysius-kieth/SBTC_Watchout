@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1833654076590684}
+  m_IsPrefabParent: 1
+--- !u!1 &1833654076590684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4493692411810760}
+  - component: {fileID: 114393127142067540}
+  m_Layer: 0
+  m_Name: ObjectPooler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4493692411810760
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1833654076590684}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114393127142067540
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1833654076590684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86cc63ed66864467cb33006b98ddfb08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rootPoolName: Pooled Objects
+  itemsToPool:
+  - objectToPool: {fileID: 1325836874171454, guid: a703db63131126449aa5f6e682267da7,
+      type: 2}
+    poolName: BananaPool
+    amountToPool: 30
+    Expandable: 1
+  - objectToPool: {fileID: 1104747247427846, guid: 114764a87a4a04febb42c8ba0ddc6ec7,
+      type: 2}
+    poolName: BottlePool
+    amountToPool: 30
+    Expandable: 1
+  - objectToPool: {fileID: 1318329394153144, guid: b80228a277789874c9c9e671d77ce955,
+      type: 2}
+    poolName: MicrowavePool
+    amountToPool: 30
+    Expandable: 1
+  - objectToPool: {fileID: 1245843952837188, guid: eb12552666ed4423fa43f18f9f63d5ed,
+      type: 2}
+    poolName: NewspaperPool
+    amountToPool: 30
+    Expandable: 1
+  - objectToPool: {fileID: 1086228441381498, guid: b634018f6a40a45fb9b75a77e0eac95d,
+      type: 2}
+    poolName: SlipperPool
+    amountToPool: 30
+    Expandable: 1
+  - objectToPool: {fileID: 1335990005003148, guid: 24cf7c16dd2e04f729a8a59ddea32e09,
+      type: 2}
+    poolName: SockPool
+    amountToPool: 30
+    Expandable: 1
+  - objectToPool: {fileID: 1525382925845500, guid: d5a76b6d8300c1c41a6740170ade2e7a,
+      type: 2}
+    poolName: FlowerpotPool
+    amountToPool: 30
+    Expandable: 1
+  - objectToPool: {fileID: 1355300030096570, guid: b45dc66610c86e74da84d7ed0bb47241,
+      type: 2}
+    poolName: ShadowPool
+    amountToPool: 50
+    Expandable: 1
+  - objectToPool: {fileID: 1374613971729340, guid: 35da17a5b63a2df418e1766d58a3c726,
+      type: 2}
+    poolName: UmbrellaPowerupPool
+    amountToPool: 3
+    Expandable: 1
+  - objectToPool: {fileID: 1052187842592758, guid: 318df1f4c48da5d488a7cc905092910f,
+      type: 2}
+    poolName: FirstAidPowerupPool
+    amountToPool: 3
+    Expandable: 1
+  - objectToPool: {fileID: 1203008720040680, guid: 9011cc5362559ef429bf7159292f653d,
+      type: 2}
+    poolName: CoinPool
+    amountToPool: 200
+    Expandable: 1
+  - objectToPool: {fileID: 1486737093621962, guid: 72e2fe1e353339d4b90e465c7f805f0c,
+      type: 2}
+    poolName: FeatherPool
+    amountToPool: 10
+    Expandable: 1
+  - objectToPool: {fileID: 1502320140005806, guid: c4ddeb2d46e37be4e9ffb4ca6cbe34cf,
+      type: 2}
+    poolName: CoinParticlePool
+    amountToPool: 200
+    Expandable: 1
+  pooledObjects: []
+  parentObj: {fileID: 0}

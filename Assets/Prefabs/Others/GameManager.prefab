@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1148130970875660}
+  m_IsPrefabParent: 1
+--- !u!1 &1148130970875660
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4411717202356632}
+  - component: {fileID: 114305360348704452}
+  - component: {fileID: 114859207690430282}
+  - component: {fileID: 114148559438313186}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4411717202356632
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1148130970875660}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114148559438313186
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1148130970875660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 371252e0b71572a4d9388c0603da186b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameManager: {fileID: 114305360348704452}
+--- !u!114 &114305360348704452
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1148130970875660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c70df04b7321846afb40e4b2917080c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SkipToGame: 0
+  userData:
+    playID: 
+    name: 
+    email: 
+    mobileno: 
+    score: 
+  lastPlaceScore: 0
+  cameraFade: {fileID: 0}
+  resultScore: {fileID: 0}
+  startGameBtn: {fileID: 0}
+  declineTermsBtn: {fileID: 0}
+  acceptTermsBtn: {fileID: 0}
+  nextResultsBtn: {fileID: 0}
+  background: {fileID: 0}
+  hud: {fileID: 0}
+  player: {fileID: 0}
+  lb: {fileID: 0}
+  levelManager: {fileID: 0}
+  environment: {fileID: 0}
+  countdownFinish: {fileID: 0}
+  screensaver: {fileID: 0}
+  bonusModeController: {fileID: 0}
+  cameraProperties: {fileID: 0}
+  fallingObjectsList: []
+--- !u!114 &114859207690430282
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1148130970875660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f1287d1200c1264ca1c2aaa1b2e3529, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pageList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
