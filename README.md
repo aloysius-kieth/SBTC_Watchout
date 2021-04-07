@@ -1,5 +1,6 @@
 # Watch Out!
 [Video Link](https://www.youtube.com/watch?v=HIePJnIJIpM)
+[Click here to find out more!](https://www.trinax.sg/project/sembawang-town-council-watch-out/)
 
 ## About
 A endless dodger motion based game for Sembawang Town Council's campaign against killer litter. Dodge the falling obstacles by moving left and right and the kinect's motion
